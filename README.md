@@ -20,7 +20,7 @@ Breaks tended to occur around long functions and non-realative paths (sometimes 
 
 Leave a significant time to clean up and streamline existing code.  
 
-Here's some other tips:
+Here are some other tips:
 
 http://blog.revolutionanalytics.com/2010/10/a-workflow-for-r.html 
 
