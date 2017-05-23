@@ -19,3 +19,9 @@ For these branches, output back up files to be able to run without the functions
 Breaks tended to occur around long functions and non-realative paths. 
 
 Leave a significant time to clean up and streamline existing code.  
+
+Here's some other tips:
+
+http://blog.revolutionanalytics.com/2010/10/a-workflow-for-r.html
+https://stats.stackexchange.com/questions/2910/how-to-efficiently-manage-a-statistical-analysis-project/3191#3191
+
