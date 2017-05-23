@@ -1,10 +1,12 @@
 # ReproducibleResearch
 
-This is a nice structure for folders and files, a workflow developed by Susan E Johnston here:
+I came across an R workflow developed by Susan E Johnston here:
 
 https://susanejohnston.wordpress.com/2015/05/12/an-introduction-to-reproducible-research-in-r-and-r-studio/
 
-On using this system for the past year, I would generally say that it is very useful and kept things organised. Some thoughts below:
+In this folder I have put in the structure that she suggests, which I have adopted in my own research over the past 12 months.
+
+I would generally say that it is very useful and kept things organised. Some thoughts below:
 
 It's probably worth drafting heaviliy the proposed analysis and going through before commiting to using 
 the template. This is important as you don't end up with lots of temporary files and scripts, whilst you are still trying 
