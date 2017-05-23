@@ -14,7 +14,7 @@ figure out which way is best to go.
 
 I would also say that it is useful to create branches at different stages of the analysis. This may be after a function that 
 takes a long time to run, or where there is a big decision on the way of the analysis and you want to do some sensitivity checks.
-For these branches, output back up files to be able to run without the functions previously. 
+For these branches, output back up files so that you are able to run the analysis indepedently of the main analysis/report. 
 
 Be very strict with yourself on using relative paths, although sometimes it is inevitable if you are working on data that needs to be on secure networked location.
 
