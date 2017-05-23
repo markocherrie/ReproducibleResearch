@@ -1,5 +1,3 @@
-# ReproducibleResearch
-
 I came across an R workflow developed by Susan E Johnston here:
 
 https://susanejohnston.wordpress.com/2015/05/12/an-introduction-to-reproducible-research-in-r-and-r-studio/
@@ -22,6 +20,7 @@ Leave a significant time to clean up and streamline existing code.
 
 Here's some other tips:
 
-http://blog.revolutionanalytics.com/2010/10/a-workflow-for-r.html
+http://blog.revolutionanalytics.com/2010/10/a-workflow-for-r.html 
+
 https://stats.stackexchange.com/questions/2910/how-to-efficiently-manage-a-statistical-analysis-project/3191#3191
 
