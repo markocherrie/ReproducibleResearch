@@ -1,4 +1,4 @@
-#Reproducible Research
+
 
 I came across an R workflow developed by Susan E Johnston here:
 
