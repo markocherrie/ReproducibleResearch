@@ -16,7 +16,9 @@ I would also say that it is useful to create branches at different stages of the
 takes a long time to run, or where there is a big decision on the way of the analysis and you want to do some sensitivity checks.
 For these branches, output back up files to be able to run without the functions previously. 
 
-Breaks tended to occur around long functions and non-realative paths (sometimes inevitable if working on data that needs to be on secure networked location),
+Breaks tended to occur around long functions and non-realative paths (sometimes inevitable if working on data that needs to be on secure networked location)
+
+I've added files for descriptive statistics and vizualization, which I think are better to keep seperate from do.R which is where the main analyses go. 
 
 Leave a significant time to clean up and streamline existing code.  
 
