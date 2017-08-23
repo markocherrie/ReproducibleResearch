@@ -6,7 +6,7 @@ https://susanejohnston.wordpress.com/2015/05/12/an-introduction-to-reproducible-
 
 In this github repository I have put in the structure that she suggests, which I have adopted in my own research over the past 12 months.
 
-I would generally say that it is very useful and kept things organised. Some thoughts below:
+It is very useful and kept things organised. Some thoughts below:
 
 It's probably worth drafting heaviliy the proposed analysis and going through before commiting to using 
 the template. This is important as you don't end up with lots of temporary files and scripts, whilst you are still trying 
